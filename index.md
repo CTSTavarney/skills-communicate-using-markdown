@@ -5,4 +5,4 @@
 ##### This is my H5 header
 ###### This is my H6 header
 
-[Organization's logo](https://octodex.github.com/images/yaktocat.png)
+![Organization's logo](https://octodex.github.com/images/yaktocat.png)
